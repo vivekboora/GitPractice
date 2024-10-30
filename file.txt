@@ -1,1 +1,3 @@
 Learning git in VS Code
+
+I am subtracting a second line
